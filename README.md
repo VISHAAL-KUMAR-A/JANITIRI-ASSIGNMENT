@@ -1,6 +1,6 @@
-# REALTIME-CHAT-APPLICATION
+# Patient Heart records
 
-This is a real-time chat application built using Django and Django Channels. It allows users to communicate with each other in real-time through a web interface.
+This is a project in RESTAPI to do registeration,login,patient details and heart rate of each patients and the users
 
 ## Features
 - User Registration
